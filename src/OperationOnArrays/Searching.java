@@ -11,6 +11,12 @@ i/P : arr[]={20, 5, 7, 25}
 x=15
 o/O : -1 (index)
 
+-> Time Complexity is O(n) : Linear search.
+If the element we want to search and if that element is not present in that case
+we need to traverse whole array.
+-> Time Complexity is O(logn)
+If we have sorted arrays.Example : Binary Search.
+
  */
 public class Searching {
     public static void main(String[] args) {
