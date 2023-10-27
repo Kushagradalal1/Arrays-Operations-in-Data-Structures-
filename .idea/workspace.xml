@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="293e203e-ab8a-4314-a308-3ae9fb3b48b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LargestElementInArray/LargestElementInArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondLargestElement/SecondLargestElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kushagradalal/Downloads/ArraysOperations/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LargestElementInArrayExample">
+  <component name="RunManager" selected="Application.SecondLargestElement">
     <configuration name="Deletion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OperationOnArrays.Deletion" />
       <module name="ArraysOperations" />
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Searching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperationOnArrays.Searching" />
+    <configuration name="SecondLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondLargestElement.SecondLargestElement" />
       <module name="ArraysOperations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OperationOnArrays.*" />
+          <option name="PATTERN" value="SecondLargestElement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondLargestElement" />
         <item itemvalue="Application.LargestElementInArrayExample" />
         <item itemvalue="Application.Deletion" />
         <item itemvalue="Application.Insert" />
         <item itemvalue="Application.Insertion" />
-        <item itemvalue="Application.Searching" />
       </list>
     </recent_temporary>
   </component>
