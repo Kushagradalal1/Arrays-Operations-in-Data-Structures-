@@ -11,6 +11,10 @@ x=7 : x is the element we want to insert
 pos=2 : pos is the position
 o/P : arr[5,7,10,20,_]
 
+If we are inserting an element in the End :
+Time complexity : O(1)
+If we are inserting an element at the beginning :
+Time Complexity : 0(n)
 
  */
 public class Insertion {
