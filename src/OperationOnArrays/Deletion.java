@@ -9,6 +9,14 @@ i/P : arr[]={3, 8, 12, 5, 6}
 x=6
 o/P : arr[]={3, 8, 12, 5, _}
 
+Time Complexity revision :
+insertion : O(n)
+search : O(n) linear search
+search : O(logn) sorted arrays
+delete : O(n)
+Get ith element : O(1)
+Update the ith element : O(1)
+Insert at the end and delete from the end will do at constant time O(1)
 
  */
 public class Deletion {
