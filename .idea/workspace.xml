@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="293e203e-ab8a-4314-a308-3ae9fb3b48b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StockBuyAndSell/StockBuyAndSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrappingRainWater/getWaterExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kushagradalal/Downloads/ArraysOperations/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StockBuyAndSell">
+  <component name="RunManager" selected="Application.getWaterExample">
     <configuration name="FreqOfSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FrequencyOfSortedArray.FreqOfSortArray" />
       <module name="ArraysOperations" />
@@ -56,19 +56,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeaderInArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeftRotateByDthPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeftRotateByDthPosition.LeftRotateByDthPosition" />
-      <module name="ArraysOperations" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeftRotateByDthPosition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="getWaterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrappingRainWater.getWaterExample" />
+      <module name="ArraysOperations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TrappingRainWater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.getWaterExample" />
         <item itemvalue="Application.StockBuyAndSell" />
         <item itemvalue="Application.FreqOfSortArray" />
         <item itemvalue="Application.MaxDiffInArray" />
         <item itemvalue="Application.LeaderInArrays" />
-        <item itemvalue="Application.LeftRotateByDthPosition" />
       </list>
     </recent_temporary>
   </component>
